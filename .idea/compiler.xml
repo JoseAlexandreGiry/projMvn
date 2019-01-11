@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="monappli-dao" />
+        <module name="monappli-domaine" />
+        <module name="monappli-service" />
+        <module name="monappli-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="monappli" target="1.7" />
+      <module name="monappli-dao" target="1.7" />
+      <module name="monappli-domaine" target="1.7" />
+      <module name="monappli-service" target="1.7" />
+      <module name="monappli-web" target="1.7" />
+      <module name="monapplidomaine" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/monappli.iml" filepath="$PROJECT_DIR$/monappli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monappli-dao/monappli-dao.iml" filepath="$PROJECT_DIR$/monappli-dao/monappli-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monappli-domaine/monappli-domaine.iml" filepath="$PROJECT_DIR$/monappli-domaine/monappli-domaine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monappli-service/monappli-service.iml" filepath="$PROJECT_DIR$/monappli-service/monappli-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monappli-web/monappli-web.iml" filepath="$PROJECT_DIR$/monappli-web/monappli-web.iml" />
+    </modules>
+  </component>
+</project>
